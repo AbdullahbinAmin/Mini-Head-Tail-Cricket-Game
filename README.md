@@ -265,3 +265,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![Deploy to AWS](https://img.shields.io/badge/Deploy%20to-AWS-FF9900?style=for-the-badge&logo=amazon-aws)](./DEPLOYMENT_GUIDE.md)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00C851?style=for-the-badge&logo=vercel)](https://cricket-game.yourdomain.com)
+
+
+---
+
+**👨‍💻 Author**
+
+Maintained by: **Abdullah bin Amin**
